@@ -1,2 +1,2 @@
 # CodeTuner
-Collaborative environment for developer where they can collab and code online with chill background music.
+ A collaborative coding platform that allows developers to work together online while enjoying a relaxed atmosphere with background music.
